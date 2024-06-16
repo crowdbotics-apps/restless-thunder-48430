@@ -1466,6 +1466,9 @@
   dependencies:
     react-native-dropdown-picker "5.3.0"
 
+"@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
