@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "333385d8bb3fef88c30713a1c79076308af88bc5c73265f7cebd8a7112182a00"
+            "sha256": "520715eb0c9a2c1dea3bf74d8994519db7be33635b9b4652f32400f4d8bc59b8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -111,6 +111,10 @@
         "cb-privacy-policy": {
             "editable": true,
             "path": "./modules/privacy_policy"
+        },
+        "cb-terms-and-conditions": {
+            "editable": true,
+            "path": "./modules/terms_and_conditions"
         },
         "certifi": {
             "hashes": [
