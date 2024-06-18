@@ -1466,12 +1466,10 @@
   dependencies:
     react-native-dropdown-picker "5.3.0"
 
-"@modules/appointment-local@file:./modules/appointment-local/":
-  version "1.0.1"
-  dependencies:
-    react-native-dropdown-picker "5.3.0"
-
 "@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
+"@modules/image-gallery@file:./modules/image-gallery/":
   version "1.0.0"
 
 "@modules/maps@file:./modules/maps":
@@ -1540,6 +1538,11 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
+
+"@react-native-camera-roll/camera-roll@5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@react-native-camera-roll/camera-roll/-/camera-roll-5.0.2.tgz#299bcd25fc51c1e8564808e744439bf7761286af"
+  integrity sha512-5gBol4mHjw9u1hUQzYWWdnB+uYgjuBd+adLQfJWhE6yv7rNFb+Noi872bYLyzBb8ayaVAbp/EtlxiG1lWY/IyA==
 
 "@react-native-community/checkbox@0.5.10":
   version "0.5.10"
