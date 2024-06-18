@@ -1461,14 +1461,12 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
-"@modules/2fa@file:./modules/2fa/":
+"@modules/appointment-local@file:./modules/appointment-local":
   version "1.0.1"
   dependencies:
-    react-native-dropdown-picker "^5.4.6"
-    react-native-qrcode-svg "6.1.2"
-    react-native-svg "12.3.0"
+    react-native-dropdown-picker "5.3.0"
 
-"@modules/appointment-local@file:./modules/appointment-local":
+"@modules/appointment-local@file:./modules/appointment-local/":
   version "1.0.1"
   dependencies:
     react-native-dropdown-picker "5.3.0"
