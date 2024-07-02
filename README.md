@@ -78,6 +78,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 - [react-native-camera](modules/camera)
 - [react-native-side-drawer](modules/side-drawer)
+- [react-native-firebase-crashlytics](modules/firebase-crashlytics)
 
 # Getting started: Frontend
 
