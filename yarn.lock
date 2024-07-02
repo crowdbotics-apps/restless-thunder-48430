@@ -1497,7 +1497,7 @@
   dependencies:
     react-native-render-html "^5.1.0"
 
-"@modules/side-drawer@file:./modules/side-drawer/":
+"@modules/side-drawer@file:./modules/side-drawer":
   version "1.0.0"
 
 "@modules/social-feed@file:./modules/social-feed":
@@ -1515,6 +1515,13 @@
     react-native-render-html "^5.1.0"
 
 "@modules/user-profile@file:./modules/user-profile":
+  version "1.0.0"
+  dependencies:
+    "@react-navigation/native" "^5.9.2"
+    prop-types "15.8.1"
+    react-native-elements "^2.3.2"
+
+"@modules/user-profile@file:./modules/user-profile/":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
