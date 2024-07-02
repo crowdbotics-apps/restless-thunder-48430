@@ -1545,7 +1545,7 @@
 "@modules/faq@file:./modules/faq":
   version "1.0.0"
 
-"@modules/firebase-crashlytics@file:./modules/firebase-crashlytics/":
+"@modules/firebase-crashlytics@file:./modules/firebase-crashlytics":
   version "1.0.0"
 
 "@modules/image-gallery@file:./modules/image-gallery":
@@ -1555,6 +1555,9 @@
   version "1.0.0"
 
 "@modules/mixpanel-analytics@file:./modules/mixpanel-analytics":
+  version "1.0.0"
+
+"@modules/mixpanel-analytics@file:./modules/mixpanel-analytics/":
   version "1.0.0"
 
 "@modules/onboarding@file:./modules/onboarding":
