@@ -1466,7 +1466,7 @@
   dependencies:
     react-native-dropdown-picker "5.3.0"
 
-"@modules/camera@file:./modules/camera/":
+"@modules/camera@file:./modules/camera":
   version "1.0.1"
   dependencies:
     react-native-actionsheet "^2.4.2"
@@ -1475,6 +1475,9 @@
   version "1.0.0"
 
 "@modules/image-gallery@file:./modules/image-gallery":
+  version "1.0.0"
+
+"@modules/image-gallery@file:./modules/image-gallery/":
   version "1.0.0"
 
 "@modules/maps@file:./modules/maps":
