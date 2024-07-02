@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-image-gallery](modules/image-gallery)
 - [react-native-user-profile](modules/user-profile)
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
+- [react-native-camera](modules/camera)
 
 # Getting started: Frontend
 
