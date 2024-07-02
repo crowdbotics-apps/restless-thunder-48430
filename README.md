@@ -80,6 +80,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-side-drawer](modules/side-drawer)
 - [react-native-firebase-crashlytics](modules/firebase-crashlytics)
 - [react-native-photo-editing](modules/photo-editing)
+- [react-native-youtube-player](modules/youtube-player)
 
 # Getting started: Frontend
 
